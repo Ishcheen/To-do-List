@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Ishcheen/To-do-List.git/static/js/main.a933f83b.chunk.js",
+    "main.js.map": "/Ishcheen/To-do-List.git/static/js/main.a933f83b.chunk.js.map",
+    "runtime-main.js": "/Ishcheen/To-do-List.git/static/js/runtime-main.e101a141.js",
+    "runtime-main.js.map": "/Ishcheen/To-do-List.git/static/js/runtime-main.e101a141.js.map",
+    "static/js/2.17e1ab02.chunk.js": "/Ishcheen/To-do-List.git/static/js/2.17e1ab02.chunk.js",
+    "static/js/2.17e1ab02.chunk.js.map": "/Ishcheen/To-do-List.git/static/js/2.17e1ab02.chunk.js.map",
+    "index.html": "/Ishcheen/To-do-List.git/index.html",
+    "precache-manifest.6436003dc9e112b8ebf0e72b8c2ad909.js": "/Ishcheen/To-do-List.git/precache-manifest.6436003dc9e112b8ebf0e72b8c2ad909.js",
+    "service-worker.js": "/Ishcheen/To-do-List.git/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e101a141.js",
+    "static/js/2.17e1ab02.chunk.js",
+    "static/js/main.a933f83b.chunk.js"
+  ]
+}
